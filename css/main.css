@@ -29,7 +29,7 @@ body
     height: 40vh;
     object-fit:cover;
 }
-#filler
+#filler,#progress
 {
     background:linear-gradient(rgba(0,0,0.2),rgba(0,0,0,0.1)) , url(../img/nepal.jpg)center/cover no-repeat fixed
 }
