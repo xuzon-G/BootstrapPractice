@@ -24,3 +24,23 @@ body
     background-repeat:no-repeat;
     background-attachment:fixed; */
 }
+.card-img-top {
+    width: 100%;
+    height: 40vh;
+    object-fit:cover;
+}
+#filler
+{
+    background:linear-gradient(rgba(0,0,0.2),rgba(0,0,0,0.1)) , url(../img/nepal.jpg)center/cover no-repeat fixed
+}
+.blog-img{
+    width: 80vh;
+    height: 40vh;
+    object-fit:cover;
+}
+.carosel-img
+{
+    width: 100vh;
+    height: 40vh;
+    object-fit:cover;
+}
